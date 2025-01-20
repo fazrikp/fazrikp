@@ -15,7 +15,7 @@
 #### 4. [SMK BPPI Baleendah](https://www.smk.bppi.sch.id) | Software Engineering | Bandung `2008-2011`
 
 ## Work Experience:
-#### 1. [PT. Prima Dwitama Anugrah](https://www.kharismagarmindo.com) | Research & Development | Bandung `Sep'2019 - Oct 2024`
+#### 1. [PT. Prima Dwitama Anugrah](https://www.kharismagarmindo.com) | IT Support | Research & Development | Bandung `Sep'2019 - Oct 2024`
     - Sample Collection Documentation (Development to prototype)
     - Inventory Control Collection Sample, Fabric Material, and Material Accessories (Sample Development & Prototype) 
     - Making Collection Sample and Prototype (Starting from material logistics preparation, follow up sewing to finishing)
