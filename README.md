@@ -1,7 +1,7 @@
 # Hi there, I'm Fazri 👋
 ## About me:
-- 🔭 I’m currently working as Research & Development at Garment Industries
-- 🌱 I’m currently learning Dev OPS Engineer tools like kubernetes , AWS , Ansible , Jenkins & manymore Dev OPS Tools.
+- 🔭 I’m currently working as a Network Engineer at Telkom Partner with SDWAN Mandiri Bank x Telkom Access Project.
+- 🌱 I’m currently learning Dev OPS Engineer tools like kubernetes , AWS , Google Cloud Platform,  Ansible , Jenkins & manymore Dev OPS Tools.
 - 💬 Ask me about anything
 - 📫 How to reach me: fazrikusumahputra@gmail.com
 
